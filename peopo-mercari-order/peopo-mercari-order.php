@@ -3,7 +3,7 @@
  * Plugin Name:       Peopo Mercari Order
  * Plugin URI:        https://example.com/plugins/peopo-mercari-order
  * Description:       Template plugin to integrate WooCommerce with Mercari order management.
- * Version:           0.1.0
+ * Version:           1.0.0
  * Requires at least: 5.8
  * Requires PHP:      7.4
  * Author:            Your Name
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'PEOPO_MERCARI_ORDER_VERSION' ) ) {
-    define( 'PEOPO_MERCARI_ORDER_VERSION', '0.1.0' );
+    define( 'PEOPO_MERCARI_ORDER_VERSION', '1.0.0' );
 }
 
 if ( ! defined( 'PEOPO_MERCARI_ORDER_PATH' ) ) {
